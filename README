@@ -11,3 +11,6 @@ on ntop.org.
 Uses sglib http://sglib.sourceforge.net.
 
 For further information please visit the wiki https://github.com/meyerd/n2n/wiki.
+
+
+If you want to compile it in Windows, you should create a version.c by Maketool in *nix with ``make version.c``
