@@ -13,6 +13,9 @@ Makefile
 supernode
 test
 *.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
 ~$
+*.obj
+*.pdb
+*.iobj
+*.ipdb
+*.tlog
